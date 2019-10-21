@@ -9,7 +9,6 @@ import lombok.Data;
 
 @Entity
 @Data
-@AllArgsConstructor
 public class Customer {
 
   @Id
